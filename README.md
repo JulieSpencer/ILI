@@ -4,4 +4,4 @@ General ILI model
 ILI_LHC_sample.R
 ## R script to run the SEIR model and global sensitivity analyses
 ILI_SEIR.R
-## Note: parameters must be hard-coded.
+Note: parameters must be hard-coded.
