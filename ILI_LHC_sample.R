@@ -2,7 +2,7 @@
 # Julie Spencer
 require(lhs)
 
-# Set seed in case you need to re-generate same sample set, change seed if you want different sample set
+# Set seed to re-generate same sample set, change seed for different sample set
 set.seed(3333)
 
 # Generate nsamples for nparam different parameters (should be 10000)
