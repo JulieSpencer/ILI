@@ -1,5 +1,5 @@
 # LHS model to sample from ILI parameter ranges
-# Tanner Shea and Julie Spencer
+# Julie Spencer
 require(lhs)
 
 # Set seed in case you need to re-generate same sample set, change seed if you want different sample set
