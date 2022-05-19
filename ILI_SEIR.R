@@ -13,7 +13,7 @@ require(cowplot)
 # (3) global sensitivity plots for each virus
 # Note 1: to generate the epidemic curves, parameters from Table 3 should
 # be inserted for each virus.
-# Note 2: for the global sensitivity analysis, mean parameters from Table 3
+# Note 2: for the global sensitivity analysis, minimum and maximum parameters 
 # should be inserted in the script titled ILI_LHC_sample;
 # the samples generated will override the hard-coded sample parameters herein.
 ############################
