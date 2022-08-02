@@ -3,7 +3,7 @@ require(ggplot2)
 require(cowplot)
 ############################
 # Influenza-Like Illness General Model 
-# Julie A. Spencer and Helen J. Wearing
+# Julie A. Spencer
 # This code will solve SEIR a system of ODEs aimed at modeling the outbreak curve of 
 # five common upper respiratory viruses within a contained population.
 # 
